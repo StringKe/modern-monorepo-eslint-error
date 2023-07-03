@@ -11,7 +11,7 @@ importers:
       husky: ^8.0.0
       lint-staged: ~13.1.0
       prettier: ^2.6.2
-      typescript: latest
+      typescript: ^5.0.0
     devDependencies:
       '@modern-js-app/eslint-config': 2.25.1_typescript@5.1.6
       '@modern-js/eslint-config': 2.25.1_typescript@5.1.6
